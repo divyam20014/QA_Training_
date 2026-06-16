@@ -1,0 +1,6 @@
+{
+  "name": "Software Testing Mastery",
+  "description": "Next-gen learning platform for 2026 software testing trends: AI in QA, shift-left/right, cloud-native validation, AI-guided mock interviews, adaptive quizzes, and hands-on sandboxes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
